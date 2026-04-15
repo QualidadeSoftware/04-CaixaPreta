@@ -118,7 +118,18 @@ Solicitado → Ativo → Devolvido
 
 Vocês devem aplicar as quatro técnicas de teste caixa preta ao sistema BiblioTech descrito acima. Sigam as etapas abaixo na ordem indicada.
 
+> 📂 **Exemplos de referência** — Para cada técnica há um arquivo com um exemplo completamente resolvido e um *template* de preenchimento. Consultem **antes** de iniciar cada etapa:
+>
+> | Técnica | Arquivo de Exemplo |
+> |---------|-------------------|
+> | Partição de Equivalência | [exemplos/exemplo-particao-equivalencia.md](exemplos/exemplo-particao-equivalencia.md) |
+> | Análise de Valor-Limite  | [exemplos/exemplo-valor-limite.md](exemplos/exemplo-valor-limite.md) |
+> | Tabela de Decisão        | [exemplos/exemplo-tabela-decisao.md](exemplos/exemplo-tabela-decisao.md) |
+> | Transição de Estado      | [exemplos/exemplo-transicao-estado.md](exemplos/exemplo-transicao-estado.md) |
+
 ### Etapa 1 — Partição de Equivalência (20 min)
+
+> 📄 **Consultem o exemplo antes de começar:** [exemplos/exemplo-particao-equivalencia.md](exemplos/exemplo-particao-equivalencia.md)
 
 Identifiquem as **variáveis de entrada** relevantes e dividam seus domínios em **classes de equivalência** (válidas e inválidas).
 
@@ -146,6 +157,8 @@ Identifiquem as **variáveis de entrada** relevantes e dividam seus domínios em
 
 ### Etapa 2 — Análise de Valor-Limite (15 min)
 
+> 📄 **Consultem o exemplo antes de começar:** [exemplos/exemplo-valor-limite.md](exemplos/exemplo-valor-limite.md)
+
 Para cada partição identificada na Etapa 1, determinem os **valores-limite** — os pontos onde erros são mais prováveis.
 
 **Formato de entrega — Tabela de Valores-Limite:**
@@ -165,6 +178,8 @@ Para cada partição identificada na Etapa 1, determinem os **valores-limite** �
 ---
 
 ### Etapa 3 — Tabela de Decisão para Renovação (25 min)
+
+> 📄 **Consultem o exemplo antes de começar:** [exemplos/exemplo-tabela-decisao.md](exemplos/exemplo-tabela-decisao.md)
 
 Construam uma **tabela de decisão** para a regra de renovação (RN05). Identifiquem as condições booleanas e todas as combinações possíveis.
 
@@ -195,6 +210,8 @@ Construam uma **tabela de decisão** para a regra de renovação (RN05). Identif
 ---
 
 ### Etapa 4 — Diagrama de Transição de Estados (20 min)
+
+> 📄 **Consultem o exemplo antes de começar:** [exemplos/exemplo-transicao-estado.md](exemplos/exemplo-transicao-estado.md)
 
 Modelem o **ciclo de vida do empréstimo** (RN06) como um diagrama de transição de estados.
 
