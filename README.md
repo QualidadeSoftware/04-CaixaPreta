@@ -283,4 +283,3 @@ Cada grupo deve entregar **um único documento** (PDF, Word ou planilha) contend
 ---
 
 > **Boa atividade!** Lembrem-se: o objetivo não é apenas criar testes, mas entender *por que* cada técnica escolhida é a mais adequada para cada cenário. 🎯
-# 04-CaixaPreta
